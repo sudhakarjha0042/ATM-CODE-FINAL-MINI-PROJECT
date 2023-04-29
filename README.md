@@ -62,7 +62,7 @@ The application is very simple to use. Just follow the instructions on the scree
 If you have any questions or suggestions, please feel free to contact me:
 
 * Email: [jhas0042@gmail.com]
-* Twitter: [https://www.linkedin.com/in/sudhakarjha0042]
+* Linkdin: [https://www.linkedin.com/in/sudhakarjha0042]
 
 ## License
 
