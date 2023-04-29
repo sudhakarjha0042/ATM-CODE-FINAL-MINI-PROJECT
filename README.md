@@ -52,9 +52,6 @@ copy
 
 java -jar atm-management-system.jar
 
-Code snippet
-
-```
 
 ## Usage
 
@@ -70,4 +67,3 @@ If you have any questions or suggestions, please feel free to contact me:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
-```
